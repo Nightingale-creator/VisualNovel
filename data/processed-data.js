@@ -20,7 +20,13 @@ var characters =
       "happy":"img/VN_chara002_happy.png"
     },
     "name":"Bobby"
-  }
+  },
+	"SPD":{
+   "poses":{
+	   "default":"img/SPD.png
+   },
+		"name":"SPD"
+	}
 }; 
  var places = 
 {
