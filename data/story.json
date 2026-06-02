@@ -10,14 +10,22 @@
 		"colorID": 0
 	},
 	{
+		
 		"title": "awkward_pause",
 		"tags": "",
-		"body": "{{bobby}} ...Okay.\n//This is awkward. Why did you say no?\n...\n{{bobby}} ...\n[[...]]\n[[...So, about that secret ending?|secret]] <<random 5>>\n{{bobby}} Can we...\n[[Yeah fine, let's start.|explanation]]\n[[I said no.|awkward_pause]]",
+		"body": "{{bobby}} ...Okay.\n//This is awkward. Why did you say no?\n...\n{{bobby}} ...\n[[...]]\n[[...So, about that secret ending?|SPD]] <<random 5>>\n{{bobby}} Can we...\n[[Yeah fine, let's start.|explanation]]\n[[I said no.|awkward_pause]]",
 		"position": {
 			"x": 928,
 			"y": 324
 		},
 		"colorID": 0
+	},
+	{ 
+		"title": "SPD",
+		"tags": "",
+    "body": "{{SPD,default}} hello"
+		
+		
 	},
 	{
 		"title": "explanation",
