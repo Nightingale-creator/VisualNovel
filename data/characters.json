@@ -20,4 +20,12 @@
     },
     "name":"Bobby"
   }
+
+
+"SPD":{
+  "poses":{
+            "default":"img/SPD.png"
+  },
+  "name":"SPD"
+}
 }
